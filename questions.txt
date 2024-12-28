@@ -1,0 +1,5 @@
+What is the capital of France?,Berlin,Madrid,Paris,Rome,C
+What is the capital of Russia?,Kazan,Moscow,Tyumen,Ufa,B
+What is the capital of Germany?,Hamburg,Bonn,Munich,Berlin,D
+What is the capital of Australia?,Canberra,Perth,Sydney,Melbourne,A
+What is the capital of Italy?,Rome,Venice,Bari,Genoa,A
