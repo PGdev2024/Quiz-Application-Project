@@ -61,6 +61,10 @@ Little local variables are used too as:
 <br>
 6.<u>f</u>:Reads each line from the questions.txt file
 <br>
+7.<u>f1</u>:Writes name,score and userid of the user in scores.txt
+<br>
+8.</u>key and key1</u>:Record the keyboard input from the user for enter key
+<br>
 <i>Simplicity</i>
 <br>
 Simple print statements are used where unecessary code is not required like to display the instructions of the quiz ,to record  username input and the enter key input from the user input() function and simple if 
@@ -73,6 +77,16 @@ Colorama module is used to make the console more appealing and to make the text 
 <br>
 respectively
 <br>
+<i>Uuid module</i>
+<br>
+Uuid module enables us to generate and store a unique user id for each user.It establishes uniqueness for the quiz application and allows us to differentiate between different users with same names
+<br>
+<i>Flexibility</i>
+<br>
+Flexibility is a key feature of this application as it allows the user to exit as per his wish in between the quiz and attempt only that much questions as he wants.
+<br>
+<i>Error handling</i>
+Error handling is sufficiently done in the project to keep track of invalid input or any other error which might occur in the simplest way possible
 <b>#3.How to run the project</b>
 <br>
 There are three simple steps to run this project which are given below as follows:
@@ -85,10 +99,12 @@ STEP 1: Enter your questions of the quiz along with their options and correct an
 <br>
 STEP 2: Run the main py file using anyone of your ide which runs python and enjoy the quiz application :)
 <br>
-STEP 3:Check the scores file to know about the users which have played the game along with their respective scores
+NOTE:Instructions for the quiz would be displayed for the user as soon as he/she enters his/her name
+<br>
+STEP 3:Check the scores file to know about the users which have played the game along with their respective scores and userid
 <br>
 <b>#4.Instructions for installation</b>
 <br>
-To ENJOY all the FEATURES of this project i would highly recommend the user to install the colorama module in the ide through which you will run the py file
+To ENJOY all the FEATURES of this project i would highly recommend the user to install the colorama module and uuid module in the ide through which you will run the py file
 
 
