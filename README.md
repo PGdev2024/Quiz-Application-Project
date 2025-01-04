@@ -86,7 +86,9 @@ Uuid module enables us to generate and store a unique user id for each user.It e
 Flexibility is a key feature of this application as it allows the user to exit as per his wish in between the quiz and attempt only that much questions as he wants.
 <br>
 <i>Error handling</i>
+<br>
 Error handling is sufficiently done in the project to keep track of invalid input or any other error which might occur in the simplest way possible
+<br>
 <b>#3.How to run the project</b>
 <br>
 There are three simple steps to run this project which are given below as follows:
